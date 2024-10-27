@@ -3,6 +3,8 @@
 My flagship project is [Samarium](https://github.com/jjbel/samarium), a 2-d physics simulator and rendering engine. It channels my love of computer graphics, high performance computing, and physics simulations.
 It is written in modern C++20 (with 23 support upcoming) and runs on 64-bit Windows and Linux.
 
+[rocket-ui](https://github.com/jjbel/rocket-ui) : A telemetry app for [IIT-B's Rocket Team](https://iitbrocketteam.in/), built using samarium.
+
 I've also messed around with [Vulkan](https://github.com/jjbel/HelloVulkan) and [Rust's WGPU](https://github.com/jjbel/learning-wgpu).
 
 My other projects/interests:
@@ -12,7 +14,7 @@ Arduino:
 - [LED Animations](https://github.com/jjbel/ArduinoLED) : cool RGB animations using LED strips.
 
 Frontend stuff, especially using electron and svelte-js:
-- [rocket_ui](https://github.com/jjbel/rocket_ui) : A telemetry app for [IIT-B's Rocket Team](https://iitbrocketteam.in/)
+- [rocket_ui](https://github.com/jjbel/rocket-ui-js) : A telemetry app for [IIT-B's Rocket Team](https://iitbrocketteam.in/)
 - [my personal site/resume](https://github.com/jjbel/resume)
 - [a ram and net usage widget](https://github.com/jjbel/watcher)
 
