@@ -29,6 +29,8 @@ Scripting utilities in python
 - [pyreload](https://github.com/jjbel/pyreload) : run scripts when files change
 - [thor](https://github.com/jjbel/thor) : yet another build system for C++
 
+I have worked with Java for command line apps, and C# for Unity.
+
 I'm currently learning functional programming, particularly in Lean4, Haskell and OCaml.
 
 I love math/sciencey animations, and was inspired by: 
