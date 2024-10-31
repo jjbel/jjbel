@@ -25,6 +25,7 @@ Frontend stuff, especially using electron and svelte-js:
 - [a ram and net usage widget](https://github.com/jjbel/watcher)
 
 Scripting utilities in python
+- [fzf-opener](https://github.com/jjbel/fzf-opener) : open files quickly using fzf
 - [large-file-finder](https://github.com/jjbel/large-file-finder) : cleanup your disk easily
 - [pyreload](https://github.com/jjbel/pyreload) : run scripts when files change
 - [thor](https://github.com/jjbel/thor) : yet another build system for C++
